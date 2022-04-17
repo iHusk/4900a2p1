@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://cloudmind.pythonanywhere.com/'
+const API_URL = 'https://cloudmind.pythonanywhere.com/'
 
 export class APIService {
     constructor() {
